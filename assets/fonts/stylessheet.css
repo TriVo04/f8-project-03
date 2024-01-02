@@ -1,0 +1,163 @@
+/* =Sora= */
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-Bold.woff2") format("woff2"),
+        url("Sora/Sora-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-Regular.woff2") format("woff2"),
+        url("Sora/Sora-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-ExtraBold.woff2") format("woff2"),
+        url("Sora/Sora-ExtraBold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-ExtraLight.woff2") format("woff2"),
+        url("Sora/Sora-ExtraLight.woff") format("woff");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-Light.woff2") format("woff2"),
+        url("Sora/Sora-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-Regular.woff2") format("woff2"),
+        url("Sora/Sora-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-SemiBold.woff2") format("woff2"),
+        url("Sora/Sora-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sora";
+    src: url("Sora/Sora-Thin.woff2") format("woff2"),
+        url("Sora/Sora-Thin.woff") format("woff");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* =Open San= */
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-Bold.woff2") format("woff2"),
+        url("OpenSan/OpenSans-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-BoldItalic.woff2") format("woff2"),
+        url("OpenSan/OpenSans-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-Extrabold.woff2") format("woff2"),
+        url("OpenSan/OpenSans-Extrabold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-Light.woff2") format("woff2"),
+        url("OpenSan/OpenSans-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-ExtraboldItalic.woff2") format("woff2"),
+        url("OpenSan/OpenSans-ExtraboldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans.woff2") format("woff2"),
+        url("OpenSan/OpenSans.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-Italic.woff2") format("woff2"),
+        url("OpenSan/OpenSans-Italic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSansLight-Italic.woff2") format("woff2"),
+        url("OpenSan/OpenSansLight-Italic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-SemiboldItalic.woff2") format("woff2"),
+        url("OpenSan/OpenSans-SemiboldItalic.woff") format("woff");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("OpenSan/OpenSans-Semibold.woff2") format("woff2"),
+        url("OpenSan/OpenSans-Semibold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
